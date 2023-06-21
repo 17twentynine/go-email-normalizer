@@ -1,4 +1,4 @@
-module github.com/dimuska139/go-email-normalizer
+module github.com/17twentynine/go-email-normalizer
 
 go 1.14
 
